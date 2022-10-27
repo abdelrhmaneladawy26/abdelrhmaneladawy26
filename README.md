@@ -4,4 +4,8 @@
         <a href="https://codepen.io/3dawy" brack="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/CodePen_logo.png"style="width:100px"/></a>
 
   </p>
-junior Developer with 1+ years experience in building responsive websites with HTML,CSS,SASS,JavaScript,JQuery,Redux. Expertise in frameworks like React.js in agile environment using git as version control.Passionate about clean code and get things done.
+junior Front end Developer with 1+ years experience in building responsive websites with
+(Angular, JS, Typescript, HTML5, CSS3,Sass, Bootstrap) 
+Please feel free to contact me if you so wish .
+EMail :info@abdelrhman-eladawy.com
+Website : www.abdelrhman-eladawy.com
