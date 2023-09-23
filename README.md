@@ -13,5 +13,5 @@ junior Front end Developer with 1+ years experience in building responsive websi
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br/>
 <p>Please feel free to contact me if you so wish .</p>
-<p>EMail :info@abdelrhman-eladawy.com</p>
-<p>Website : www.abdelrhman-eladawy.com</p>
+<p>EMail :abdelrhmaneladawy26@gmail.com
+</p>
